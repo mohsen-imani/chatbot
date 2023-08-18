@@ -6,8 +6,6 @@ A chatbot interface designed to interact with PDF documents. Through this bot, u
 
 - **OpenAI**: Used for embeddings and conversational interfaces.
 - **Panel & Param**: For creating interactive GUI components.
-- **OS**: Accessing environment variables and system-specific settings.
-- **Datetime**: Handling and formatting date-time information.
 - **langchain**: A hypothetical library that seems to provide various utilities for language embeddings, text splitting, and more.
 
 It's recommended to create a virtual environment to manage these dependencies.
