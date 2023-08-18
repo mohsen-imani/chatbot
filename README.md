@@ -29,7 +29,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "./your_script_name.py"]
+CMD ["python", "./main.py"]
 ```
 
 2. Create a `requirements.txt` file in the root directory listing all your Python dependencies.
