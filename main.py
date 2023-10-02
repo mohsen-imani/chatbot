@@ -10,7 +10,6 @@ from langchain.document_loaders import PyPDFLoader
 import openai
 import os
 api_openai_key = os.environ.get("API_KEY")
-#api_openai_key = "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"
 
 import datetime
 current_date = datetime.datetime.now().date()
